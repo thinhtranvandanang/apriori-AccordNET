@@ -1,0 +1,3 @@
+Mã nguồn chương trình + file CSDL SQL Server 
+Dùng thư viện AccordNET 
+Thuật toán apriori để khai phá dữ liệu
